@@ -1,4 +1,4 @@
-class Game.Tile
+class Carcanode.Tile
   
   constructor: () ->
     
